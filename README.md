@@ -1,6 +1,3 @@
-Here is a professional and visually appealing README file template for your repository `myapp`. You can customize it further to fit your exact requirements.
-
----
 
 # MyApp
 
@@ -96,5 +93,3 @@ Have feedback or questions? Feel free to open an issue or reach out via [GitHub 
 A big thank you to all contributors and collaborators who have helped shape **MyApp**! 🙌
 
 ---
-
-Feel free to customize this README as needed and add any additional sections relevant to your project. Let me know if you'd like further assistance!
