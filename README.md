@@ -1,7 +1,7 @@
 
-# MyApp
+# CineNeon
 
-Welcome to **MyApp**! 🚀  
+Welcome to **CineNeon**! 🚀  
 A modern, feature-rich application built with **Dart** as the primary programming language. This project aims to deliver a seamless and efficient experience for users while maintaining clean and scalable code.
 
 ---
